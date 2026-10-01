@@ -1,0 +1,35 @@
+{
+  "name": "novel-to-manga-anime-generator",
+  "version": "1.0.0",
+  "description": "AI novel-to-manga, comic and anime video generator: REF sheets, page/shot planning, Seedream & Seedance prompts, optional automatic generation via BytePlus ModelArk API. 中文/English/日本語.",
+  "keywords": [
+    "novel to manga",
+    "AI manga generator",
+    "AI comic",
+    "webtoon",
+    "anime video",
+    "AI animation",
+    "storyboard",
+    "Seedream",
+    "Seedance",
+    "小說轉漫畫",
+    "AI漫畫",
+    "AI動畫",
+    "小説 漫画化",
+    "AI漫画",
+    "アニメ生成"
+  ],
+  "skills": "./skills",
+  "interface": {
+    "displayName": "Novel to Manga & Anime Generator",
+    "shortDescription": "Turn novel text into manga, comics or anime videos — 小說轉漫畫／動畫・小説を漫画・アニメに",
+    "longDescription": "Paste a chapter and choose comic or video. The plugin builds character/location/prop reference sheets, adapts the story into pages and panels or minutes and shots, and writes ready-to-use Seedream (image) and Seedance (video) prompts. Optional scripts let an agent generate everything automatically through the BytePlus ModelArk API. Works in Chinese, English and Japanese.",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Turn this chapter into a manga: [paste text]",
+      "把這段小說做成 3 分鐘動畫：[貼上內容]",
+      "この小説を漫画にしてください：[本文を貼り付け]"
+    ]
+  },
+  "repository": "https://github.com/BBQ2077/novel-to-manga-anime-generator"
+}

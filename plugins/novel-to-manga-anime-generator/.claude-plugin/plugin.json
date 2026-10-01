@@ -1,0 +1,27 @@
+{
+  "name": "novel-to-manga-anime-generator",
+  "version": "1.0.0",
+  "description": "AI novel-to-manga, comic and anime video generator: REF sheets, page/shot planning, Seedream & Seedance prompts, optional automatic generation via BytePlus ModelArk API. 中文/English/日本語.",
+  "author": {
+    "name": "BBQ2077"
+  },
+  "repository": "https://github.com/BBQ2077/novel-to-manga-anime-generator",
+  "license": "MIT",
+  "keywords": [
+    "novel to manga",
+    "AI manga generator",
+    "AI comic",
+    "webtoon",
+    "anime video",
+    "AI animation",
+    "storyboard",
+    "Seedream",
+    "Seedance",
+    "小說轉漫畫",
+    "AI漫畫",
+    "AI動畫",
+    "小説 漫画化",
+    "AI漫画",
+    "アニメ生成"
+  ]
+}

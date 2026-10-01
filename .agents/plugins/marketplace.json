@@ -1,0 +1,17 @@
+{
+  "name": "manga-anime-tools",
+  "interface": {
+    "displayName": "Manga & Anime Tools"
+  },
+  "plugins": [
+    {
+      "name": "novel-to-manga-anime-generator",
+      "source": {
+        "source": "local",
+        "path": "./plugins/novel-to-manga-anime-generator"
+      },
+      "category": "Creativity",
+      "description": "AI novel-to-manga, comic and anime video generator: REF sheets, page/shot planning, Seedream & Seedance prompts, optional automatic generation via BytePlus ModelArk API. 中文/English/日本語."
+    }
+  ]
+}
